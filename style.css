@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-color: burlywood;
+}
+
+label {
+    display: block;
+    padding: 1rem;
+}
+
+button {
+    color: black;
+    background-color: darksalmon;
+}
+
+div {
+    display: block;
+    padding: 1rem;
+    font-weight: bold;
+}
